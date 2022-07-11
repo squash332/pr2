@@ -1,0 +1,5 @@
+﻿  funkcije.c
+C:\Users\Filip\Downloads\zapisnikprojekt\zapisnikprojekt\funkcije.c(159,3): warning C4033: 'pretraziZapise' must return a value
+C:\Users\Filip\Downloads\zapisnikprojekt\zapisnikprojekt\funkcije.c(270,14): warning C4098: 'brisanjeZapisa': 'void' function returning a value
+C:\Users\Filip\Downloads\zapisnikprojekt\zapisnikprojekt\funkcije.c(181): warning C4715: 'pretraziZapise': not all control paths return a value
+  zapisnikprojekt.vcxproj -> C:\Users\Filip\Downloads\zapisnikprojekt\x64\Debug\zapisnikprojekt.exe
